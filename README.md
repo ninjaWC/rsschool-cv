@@ -1,2 +1,3 @@
 # rsschool-cv
-epam cv task
+https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+
